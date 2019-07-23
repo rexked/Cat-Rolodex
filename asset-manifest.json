@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rexked/Cat-Rolodex.git/static/css/main.6d1b6458.chunk.css",
-    "main.js": "/rexked/Cat-Rolodex.git/static/js/main.b58ca8cb.chunk.js",
-    "main.js.map": "/rexked/Cat-Rolodex.git/static/js/main.b58ca8cb.chunk.js.map",
-    "runtime~main.js": "/rexked/Cat-Rolodex.git/static/js/runtime~main.9422255d.js",
-    "runtime~main.js.map": "/rexked/Cat-Rolodex.git/static/js/runtime~main.9422255d.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/rexked/Cat-Rolodex.git/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/rexked/Cat-Rolodex.git/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/rexked/Cat-Rolodex.git/index.html",
-    "precache-manifest.91d4bc66c2d3d9c30089ee3cbf2ba0fd.js": "/rexked/Cat-Rolodex.git/precache-manifest.91d4bc66c2d3d9c30089ee3cbf2ba0fd.js",
-    "service-worker.js": "/rexked/Cat-Rolodex.git/service-worker.js",
-    "static/css/main.6d1b6458.chunk.css.map": "/rexked/Cat-Rolodex.git/static/css/main.6d1b6458.chunk.css.map"
+    "main.css": "/Cat-Rolodex/static/css/main.6d1b6458.chunk.css",
+    "main.js": "/Cat-Rolodex/static/js/main.2345b39c.chunk.js",
+    "main.js.map": "/Cat-Rolodex/static/js/main.2345b39c.chunk.js.map",
+    "runtime~main.js": "/Cat-Rolodex/static/js/runtime~main.091a6f6d.js",
+    "runtime~main.js.map": "/Cat-Rolodex/static/js/runtime~main.091a6f6d.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/Cat-Rolodex/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/Cat-Rolodex/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/Cat-Rolodex/index.html",
+    "precache-manifest.d57c3df5e6b694462df90ddc6b39a353.js": "/Cat-Rolodex/precache-manifest.d57c3df5e6b694462df90ddc6b39a353.js",
+    "service-worker.js": "/Cat-Rolodex/service-worker.js",
+    "static/css/main.6d1b6458.chunk.css.map": "/Cat-Rolodex/static/css/main.6d1b6458.chunk.css.map"
   }
 }
